@@ -30,11 +30,10 @@ React
 Styles with Styled Components
 Develop locally
 Clone this repo by running git clone https://github.com/Psycho-Patch/box-office.git
+
 Install dependencies by running npm install
+
 Run npm run start
-Deployment
-Deployed to github pages:
 
-Open package.json and change homepage from https://github.com/Psycho-Patch/box-office.git to "https://YOUR_USERNAME.github.io/REPOSITORY_NAME"
-
-Run npm run deploy
+Open package.json and change homepage from https://github.com/Psycho-Patch/box-office.git to 
+"https://YOUR_USERNAME.github.io/REPOSITORY_NAME"
